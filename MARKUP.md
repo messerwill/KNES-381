@@ -1,5 +1,9 @@
 **Bold**
-<center>shoud be in the center</center>
+
+<p align="center">
+//this should be in the center
+</p>
+
 
 --italics--
 
