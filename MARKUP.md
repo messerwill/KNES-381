@@ -13,9 +13,9 @@
 
 This text shoudl have superscript 2x<sup>2</sup>
 
-This text should have subscript and scientific notation V̇O<sub>2</sub>
+This text should have subscript and scientific notation <DottedLetter>Q</DottedLetter>
 
-<p>V&#775;O<sub>2</sub></p>
+
 
 
 
