@@ -9,8 +9,6 @@
 
 <a href="/PULLTEST">Link to another file</a>
 
-<a href="/Images2">Link image folder</a>
-
 This text should have subscript V&#775;O<sub>2</sub>
 
 ```diff
