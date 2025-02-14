@@ -9,7 +9,7 @@
 
 <a href="/PULLTEST">Link to another file</a>
 
-<a href="Image/Rex.webp">View Image</a>
+<a href="Image/Rex.webp">Image in subfolder on Git</a>
 
 This text should have subscript V&#775;O<sub>2</sub>
 
