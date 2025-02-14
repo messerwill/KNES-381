@@ -11,6 +11,8 @@
 
 <a href="Image/Rex.webp">Image in subfolder on Git</a>
 
+This text shoudl have superscript <p>2x<sup>2</sup></p>
+
 This text should have subscript V&#775;O<sub>2</sub>
 
 ```diff
