@@ -9,6 +9,8 @@
 
 <a href="/PULLTEST">Link to another file</a>
 
+<a href="Image/Rex.webp">View Image</a>
+
 This text should have subscript V&#775;O<sub>2</sub>
 
 ```diff
